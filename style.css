@@ -1,0 +1,59 @@
+h1{
+text-align: center;
+text-decoration:overline underline dashed;
+margin: 55px auto 55px;
+font-size:50px;
+}
+
+#container{
+   border: 3px solid black;
+   height: 750px;
+   width: 550px;
+   align-items: center;
+   margin:auto;
+   background-color: rgb(196, 234, 229);
+   border-radius: 5px;
+   box-shadow:20px 20px 30px  rgb(18, 15, 15);
+   
+
+}
+
+.btn{
+    height: 105px;
+    width: 105px;
+    border-radius: 20px;
+    border:2px solid black;
+    margin:15px 2px 5px 20px;
+    font-size: 50px;
+    text-align: center;
+    box-shadow: 10px 10px rgb(127, 156, 142);
+}
+
+.col{
+    height: 105px;
+    width: 230px;
+    border-radius: 20px;
+    border:2px solid black;
+    margin-left:23px;
+    font-size: 50px;
+    text-align: center;
+    box-shadow: 10px 10px rgb(127, 156, 142);
+}
+
+#input{
+    margin:10px 1px 10px 4px;
+    font-size: 43px;
+    border-radius: 10px;
+    box-shadow: 1px 0px 20px 8px  rgb(107, 114, 108);
+    background-color: rgb(250, 244, 236);
+    height:90px;  
+    border: none;
+    text-align:right;
+} 
+
+ body{
+    background-image:linear-gradient(to top,rgb(207, 144, 109),rgb(255, 255, 255),rgb(120, 120, 202));
+    background-repeat: no-repeat;
+    height: 956px;
+} 
+
