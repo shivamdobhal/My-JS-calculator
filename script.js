@@ -22,3 +22,4 @@ function deleted()
 {
     output.value="";
 }
+
